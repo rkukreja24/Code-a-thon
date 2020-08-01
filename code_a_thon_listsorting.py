@@ -1,6 +1,6 @@
 '''
 Created on August 1, 2020
-Mobile phone validation
+List sorting
 @author: Ritu Kukreja
 '''
 
